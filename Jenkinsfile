@@ -1,0 +1,4 @@
+Stage(){
+git "url"
+}
+
