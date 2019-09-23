@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Stage(){
+vdjk vk kStage(){
 git "url"
 }
 
